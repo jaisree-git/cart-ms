@@ -1,0 +1,8 @@
+---
+
+nsname: mycart
+mylabels:
+  app: myapp
+  tier: frontend
+replica: 6
+ 
